@@ -1,2 +1,3 @@
 This is a copmrasion file, change in file
  I am the Stash pratcie ,change in files
+hello git init to inilatize and add. to add all the files
